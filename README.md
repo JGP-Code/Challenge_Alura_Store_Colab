@@ -9,8 +9,9 @@
 ### Encontraras diferentes DataFrame con la información con la cual se ha realizado el análisis y gráficas para apoyo visual.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/dd420fb9-a42a-4502-bcb3-6467d9b55306" width="600" height="600">
+<img src="https://github.com/JGP-Code/Challenge_Alura_Store_Colab/Imagenes" width="600" height="600">
 </div>
+https://github.com/JGP-Code/Challenge_Alura_Store_Colab/Imagenes/
 
 
 # Las pantallas que te encontrarás son:
