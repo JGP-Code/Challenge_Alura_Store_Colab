@@ -8,20 +8,14 @@
 
 ### Encontraras diferentes DataFrame con la información con la cual se ha realizado el análisis y gráficas para apoyo visual.
 
-<div align="center">
-<img src="https://github.com/JGP-Code/Challenge_Alura_Store_Colab/blob/main/Imagenes/ingresos_totales.png" width="600" height="600">
-</div>
-
-
 # Las pantallas que te encontrarás son:
 
 **Ingreso total por cada tienda**
 
 En este primer análisis, debes calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
 
+<img width="1369" height="606" alt="image" src="https://github.com/user-attachments/assets/88e85cfa-3552-47fa-b436-c8121fffe833" />
 
-
-<img width="3827" height="1808" alt="instrucciones1" src="https://github.com/user-attachments/assets/f4f0d26b-b7f8-49fd-9238-335fd8482cc9" />
 
 
 **Ventas por categoría**
